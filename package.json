@@ -1,0 +1,23 @@
+{
+  "name": "query-by-attribute",
+  "version": "1.0.1",
+  "description": "query selector by attribute name and value",
+  "main": "query-by-attribute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "querySelector",
+    "attribute"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/query-by-attribute.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/query-by-attribute/issues"
+  },
+  "homepage": "https://github.com/adf0001/query-by-attribute#readme"
+}
